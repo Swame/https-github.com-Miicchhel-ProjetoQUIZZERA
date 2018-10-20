@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PROJETOQUIZZERA</string>
+    <string name="edtNewUsername">Nome do Usuario</string>
+    <string name="edtNewPassword">Senha</string>
+    <string name="edtNewEmail">Email</string>
+    <string name="info_login">info_login????</string>
+    <string name="sing_up">Sing up</string>
+    <string name="sing_in">Sing in</string>
+    <string name="edtUser">edtUser</string>
 </resources>
